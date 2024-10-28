@@ -1,7 +1,8 @@
 # [Seeed Studio XIAO Series](https://www.seeedstudio.com/xiao-series-page?utm_source=github&utm_medium=seeed&utm_campaign=xiaoseries)
 
-<p align="center" width="100%">
-<img src="/image/xiao_family.jpg" alt="alt text" width="700">
+<p align="center" width="100%"><a href="https://github.com/Seeed-Studio/OSHW-XIAO-Series/blob/main/document/Seeed_Studio_XIAO_Slides.pdf">
+<img src="/image/slides.png" alt="alt text" width="700">
+</a>
 </p>
 
 
