@@ -414,6 +414,7 @@ easily integrate XIAO into their boards for rapid mass production.
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
 	</tr>
     <tr>
 	    <th>CircuitPython</th>
@@ -423,6 +424,7 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>❌</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
@@ -439,6 +441,7 @@ easily integrate XIAO into their boards for rapid mass production.
 		<td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
