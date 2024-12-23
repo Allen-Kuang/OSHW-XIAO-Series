@@ -64,6 +64,30 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><a href="https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html" target="_blank"><b><strong>🖱️ Buy Now</strong></b></a><br /><br /><a href="https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/" target="_blank"><b><strong>📚 Getting Started</strong></b></a></td>
 	    <td align="center"><a href="https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html" target="_blank"><b><strong>🖱️ Buy Now</strong></b></a><br /><br /><a href="https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/" target="_blank"><b><strong>📚 Getting Started</strong></b></a></td>
 	</tr>
+	<tr>
+	    <th>Seeed Studio XIAO RA4M1</th>
+        <th>Seeed Studio XIAO RP2350</th>
+		<th>Seeed Studio XIAO MG24</th>
+		<th>Seeed Studio XIAO MG24 Sense</th>
+	</tr>
+	<tr>
+	    <td align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/3/-/3-102010638-seeed-studio-xiao-ra4m1-_pre-soldered_-font.jpg" alt="alt text" width="300"></td>
+	    <td align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/3/-/3-102010637-seeed-studio-xiao-rp2350-_pre-soldered_-font.jpg" alt="alt text" width="350"></td>
+	    <td align="center"><img src="https://files.seeedstudio.com/wiki/XIAO_MG24/Getting_Start/MG24_front.jpg" alt="alt text" width="350"></td>
+	    <td align="center"><img src="https://media-cdn.seeedstudio.com/media/catalog/product/cache/bb49d3ec4ee05b6f018e93f896b8a25d/3/-/3-102010610-seeed-studio-xiao-mg24-sense-font.jpg" alt="alt text" width="350"></td>
+	</tr>
+    <tr>
+	    <td>The XIAO RA4M1 integrates Renesas' RA4M1 chip (32-bit ARM® Cortex®-M4 MCU up to 48 MHz) into the classic XIAO form factor.</td>
+	    <td>The XIAO RP2350 packs the power of the Raspberry Pi RP2350 (dual Cortex-M33 cores running at 150MHz with FPU, enhanced security and encryption) into the classic XIAO form factor.</td>
+	    <td>XIAO MG24 is an ultra-low-power wireless development board based on Silicon Labs' EFR32MG24 SoC, featuring a high-performance 78MHz ARM Cortex®-M33 core</td>
+	    <td>XIAO MG24 is an ultra-low-power wireless development board based on Silicon Labs' EFR32MG24 SoC, featuring a high-performance 78MHz ARM Cortex®-M33 core</td>
+	</tr>
+	<tr>
+	    <td align="center"><a href="https://www.seeedstudio.com/Seeed-Studio-XIAO-RA4M1-Pre-Soldered-p-6329.html" target="_blank"><b><strong>🖱️ Buy Now</strong></b></a><br /><br /><a href="https://wiki.seeedstudio.com/getting_started_xiao_ra4m1/" target="_blank"><b><strong>📚 Getting Started</strong></b></a></td>
+	    <td align="center"><a href="https://www.seeedstudio.com/Seeed-Studio-XIAO-RP2350-Pre-Soldered-p-6336.html" target="_blank"><b><strong>🖱️ Buy Now</strong></b></a><br /><br /><a href="https://wiki.seeedstudio.com/getting-started-xiao-rp2350/" target="_blank"><b><strong>📚 Getting Started</strong></b></a></td>
+	    <td align="center"><a href="https://www.seeedstudio.com/Seeed-Studio-XIAO-MG24-p-6247.html" target="_blank"><b><strong>🖱️ Buy Now</strong></b></a><br /><br /><a href="https://wiki.seeedstudio.com/xiao_mg24_getting_started/" target="_blank"><b><strong>📚 Getting Started</strong></b></a></td>
+	    <td align="center"><a href="https://www.seeedstudio.com/Seeed-Studio-XIAO-MG24-p-6247.html" target="_blank"><b><strong>🖱️ Buy Now</strong></b></a><br /><br /><a href="https://wiki.seeedstudio.com/xiao_mg24_getting_started/" target="_blank"><b><strong>📚 Getting Started</strong></b></a></td>
+	</tr>
 	</font>
 </table>
 
@@ -78,49 +102,66 @@ easily integrate XIAO into their boards for rapid mass production.
         <th></th>
 	    <th>Seeed Studio XIAO SAMD21</th>
 	    <th>Seeed Studio XIAO RP2040</th>
+	    <th>Seeed Studio XIAO RP2350</th>
         <th>Seeed Studio XIAO nRF52840</th>
         <th>Seeed Studio XIAO nRF52840 Sense</th>
         <th>Seeed Studio XIAO ESP32C3</th>
 		<th>Seeed Studio XIAO ESP32C6</th>
         <th>Seeed Studio XIAO ESP32S3</th>
         <th>Seeed Studio XIAO ESP32S3 Sense</th>
+        <th>Seeed Studio XIAO RA4M1</th>
+        <th>Seeed Studio XIAO MG24</th>
+        <th>Seeed Studio XIAO MG24 Sense</th>
 	</tr>
 	<tr>
 	    <th>SKU</th>
 	    <td align="center">102010328</td>
 	    <td align="center">102010428</td>
+	    <td align="center">102010637</td>
 	    <td align="center">102010448</td>
 	    <td align="center">102010469</td>
         <td align="center">113991054</td>
 		<td align="center">113991254</td>
         <td align="center">113991114</td>
         <td align="center">113991115</td>
+        <td align="center">102010638</td>
+        <td align="center">102010610</td>
+        <td align="center">102010610</td>
 	</tr>
 	<tr>
 	    <th>Chip</th>
 	    <td align="center">Microchip SAMD21</td>
 	    <td align="center">Raspberry Pi RP2040</td>
+	    <td align="center">Raspberry Pi RP2350</td>
 	    <td align="center">Nordic nRF52840</td>
 	    <td align="center">Nordic nRF52840</td>
         <td align="center">Expressif ESP32C3</td>
 		<td align="center">Expressif ESP32C6</td>
         <td align="center">Expressif ESP32S3</td>
         <td align="center">Expressif ESP32S3</td>
+        <td align="center">Renesas RA4M1</td>
+        <td align="center">Silicon Labs EFR32MG24</td>
+        <td align="center">Silicon Labs EFR32MG24</td>
 	</tr>
 	<tr>
 	    <th>Architecture</th>
 	    <td align="center">Cortex-M0+<br />running up to 48MHz</td>
 	    <td align="center">Dual-core Cortex-M0+<br />running up to 133 MHz</td>
+	    <td align="center">Dual-core Cortex-M33 with FPU<br />running up to 150 MHz</td>
 	    <td align="center">Cortex-M4<br />running up to 64 MHz</td>
 	    <td align="center">Cortex-M4<br />running up to 64 MHz</td>
         <td align="center">RISC-V<br />running up to 160 MHz</td>
 		<td align="center">Dual RISC-V<br />with the HP one running up to 160MHz</td>
         <td align="center">Dual-core Xtensa LX7<br />running up to 240 MHz</td>
         <td align="center">Dual-core Xtensa LX7<br />running up to 240 MHz</td>
+        <td align="center">Arm Cortex-M4 Core with FPU<br />running up to 48 MHz</td>
+        <td align="center">ARM Cortex-M33<br />running up to 78 MHz</td>
+        <td align="center">ARM Cortex-M33<br />running up to 78 MHz</td>
 	</tr>
 	<tr>
 	    <th>RAM</th>
 	    <td align="center">32 KB SRAM</td>
+	    <td align="center">264 KB SRAM</td>
 	    <td align="center">264 KB SRAM</td>
 	    <td align="center">256 KB RAM</td>
 	    <td align="center">256 KB RAM</td>
@@ -128,17 +169,24 @@ easily integrate XIAO into their boards for rapid mass production.
 		<td align="center">512 KB SRAM</td>
         <td align="center">512 KB SRAM<br />8MB PSRAM</td>
         <td align="center">512 KB SRAM<br />8MB PSRAM</td>
+        <td align="center">32 KB SRAM</td>
+        <td align="center">256 KB SRAM</td>
+        <td align="center">256 KB SRAM</td>
 	</tr>
     <tr>
 	    <th>Flash & ROM (chip)</th>
 	    <td align="center">256KB</td>
 	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center">2MB</td>
 	    <td align="center">1MB</td>
 	    <td align="center">1MB</td>
         <td align="center">4MB</td>
 		<td align="center">4MB</td>
         <td align="center">384KB</td>
         <td align="center">384KB</td>
+        <td align="center">256KB</td>
+        <td align="center">1536KB</td>
+        <td align="center">1536KB</td>
 	</tr>
     <tr>
 	    <th>Flash (onboard)</th>
@@ -146,13 +194,18 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center">2MB</td>
 	    <td align="center">2MB</td>
 	    <td align="center">2MB</td>
+	    <td align="center">2MB</td>
         <td align="center"><font size={"3"}>❌</font></td>
 		<td align="center"><font size={"3"}>❌</font></td>
         <td align="center">8MB</td>
         <td align="center">8MB</td>
+		<td align="center"><font size={"3"}>❌</font></td>
+        <td align="center">4MB</td>
+        <td align="center">4MB</td>
 	</tr>
     <tr>
 	    <th>Built-in Sensors</th>
+	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
@@ -161,10 +214,14 @@ easily integrate XIAO into their boards for rapid mass production.
 		<td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
         <td align="center">OV2640 camera, Microphone</td>
+        <td align="center"><font size={"3"}>❌</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
+        <td align="center"><font size={"3"}>6-Axis IMU, Microphone</font></td>
 	</tr>
     <tr>
 	    <th>Digital / Analog Pins</th>
 	    <td align="center">11/11</td>
+	    <td align="center">19/3</td>
 	    <td align="center">11/4</td>
 	    <td align="center">11/6</td>
 	    <td align="center">11/6</td>
@@ -172,6 +229,9 @@ easily integrate XIAO into their boards for rapid mass production.
 		<td align="center">11/6</td>
         <td align="center">11/9</td>
         <td align="center">13/11</td>
+        <td align="center">14/19</td>
+        <td align="center">11/11</td>
+        <td align="center">11/19</td>
 	</tr>
     <tr>
 	    <th>I2C/UART/SPI</th>
@@ -179,21 +239,29 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>✅</font></td>
 	</tr>
     <tr>
 	    <th>Buletooth</th>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
 	</tr>
     <tr>
 	    <th>WiFi</th>
@@ -201,10 +269,14 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
 	</tr>
 	<tr>
 	    <th>Zigbee</th>
@@ -212,10 +284,14 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
 	</tr>
 	<tr>
 	    <th>Thread</th>
@@ -223,10 +299,14 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
 	</tr>
 	<tr>
 	    <th>Matter</th>
@@ -234,10 +314,14 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
 	</tr>
     <tr>
 	    <th>Reset Button</th>
@@ -245,8 +329,12 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 	</tr>
@@ -254,10 +342,14 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <th>Boot Button</th>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 	</tr>
@@ -267,8 +359,12 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
+	    <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 	</tr>
@@ -276,10 +372,14 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <th>Baterry Charge LED and Chip</th>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
 	    <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 	</tr>
@@ -287,12 +387,16 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <th>Low Power Mode</th>
 	    <td align="center"><font size={"3"}>❌</font></td>
 	    <td align="center"><font size={"3"}>❌</font></td>
+	    <td align="center">27μA</td>
 	    <td align="center">5μA</td>
 	    <td align="center">5μA</td>
         <td align="center">44μA</td>
 		<td align="center">15μA</td>
         <td align="center">14μA</td>
         <td align="center">26.5mA</td>
+        <td align="center">45μA</td>
+        <td align="center">1.95μA</td>
+        <td align="center">1.95μA</td>
 	</tr>
     <tr>
 	    <th colspan="9">Programming Langusges</th>
@@ -307,6 +411,9 @@ easily integrate XIAO into their boards for rapid mass production.
 		<td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>✅</font></td>
 	</tr>
     <tr>
 	    <th>CircuitPython</th>
@@ -316,6 +423,9 @@ easily integrate XIAO into their boards for rapid mass production.
 	    <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
 		<td align="center"><font size={"3"}>❌</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>❌</font></td>
 	</tr>
@@ -329,6 +439,9 @@ easily integrate XIAO into their boards for rapid mass production.
 		<td align="center"><font size={"3"}>❌</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
         <td align="center"><font size={"3"}>✅</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
+        <td align="center"><font size={"3"}>❌</font></td>
 	</tr>
 </font>
 </table>
